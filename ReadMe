@@ -1,0 +1,3 @@
+If you want to use on-hot encoding for the categorical features with more than 3 unique values,
+1) you need to uncomment the preprocessing part of the code in main.py 
+and 2) select the DATA_PATH2 for ONE_hot folder in config.py 
